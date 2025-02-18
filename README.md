@@ -3,7 +3,7 @@
 - 👀 **Interests:** Computer Science, AI/ML, Robotics, and Physics Simulations  
 - 🌱 **Currently Learning:** Advanced Algorithms, Cloud Services, and Physics-based Simulations  
 - 💞️ **Looking to Collaborate On:** Open-source projects, AI-driven applications, and real-world problem-solving  
-- 📫 **How to Reach Me:** [LinkedIn](www.linkedin.com/in/aavonsameer) | [Email](mailto:sameernagar@csu.fullerton.edu)  
+- 📫 **How to Reach Me:** [LinkedIn](www.linkedin.com/in/aavonsameer) | [Email](mailto:sameernagar@csu.fullerton.edu) | [Salesforce](https://www.salesforce.com/trailblazer/aavonsameer) 
 - 😄 **Pronouns:** He/Him  
 - ⚡ **Fun Fact:** I love experimenting with physics simulations and optimizing algorithms for real-time performance!  
 
