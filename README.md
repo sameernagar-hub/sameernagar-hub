@@ -1,29 +1,23 @@
-# 👋 Hi, I’m Sameer Nagar
+## 👋 Hi, I’m Sameer Nagar
 
-**Software Development Engineer (SDE) | Backend & Distributed Systems** | **M.S. in Computer Science • Academic Researcher**
+*Software Development Engineer (SDE) | Backend & Distributed Systems* | *M.S. Graduate in Computer Science • Academic Researcher*
 
-I design and build resilient backend architectures, high-throughput data pipelines, and intelligent automation systems. My work focuses on bridging the gap between robust software engineering and practical AI/ML applications.
+I design and build resilient backend architectures, high-throughput data pipelines, and deterministic automation systems. My work focuses on bridging the gap between robust systems engineering and practical, production-grade AI/ML applications.
 
----
+### 🏆 Recent Achievements
+- **1st Place Winner** – *Agentic Dev Tools Hackathon (San Francisco, June 2026)*: Co-developed **Replace Your Human with AI Skill**, a native developer tool focused on autonomous agent workflows.
 
 ### 🛠️ Technical Ecosystem
-
-* **Languages:** Python, Java, C++, Apex, JavaScript, SQL
-* **Frameworks & Tools:** Apache Kafka, TensorFlow, Pandas, NumPy, Git, Docker, Node.js
-* **Cloud & CRM:** AWS, Salesforce (5x Certified: Admin, Adv Admin, PD I, PD II, Agentforce Specialist)
-
----
+- **Languages:** Python, Java, C++, JavaScript, SQL
+- **Frameworks & Tools:** Apache Kafka, TensorFlow, Pandas, NumPy, Git, Docker, Node.js
+- **Cloud & Infrastructure:** AWS, Distributed Systems Orchestration
 
 ### ⚡ Featured Architectural Focus
-
-* **Data Streams & Security:** Developed high-throughput Electronic Health Record (EHR) pipelines using **Apache Kafka** to detect system anomalies in real time.
-* **Resource Optimization:** Built intelligent scheduling engines optimizing multi-variable constraints for institutional resource allocation.
-* **Full-Stack AI Integration:** Currently deploying a personal SDE portfolio featuring an integrated, interactive AI Chat Assistant utilizing the **Google Gemini API** with local browser fallback capabilities.
-
----
+- **Deterministic AI Infrastructure ([promptPilot](https://github.com/sameernagar-hub/promptPilot)):** Architected a full-stack prompt intelligence platform designed to refine raw natural-language inputs into optimized, platform-aware AI workflows, prioritizing systems orchestration over brittle wrappers.
+- **Real-Time Stream Processing ([Anomaly Detection Workbench](https://github.com/sameernagar-hub/Anomaly-Detection-Workbench)):** Architected high-throughput Electronic Health Record (EHR) data pipelines using *Apache Kafka* and *Python* to process live streams, identify data inconsistencies, and detect system anomalies in real time.
+- **Resource Optimization Engine ([Titan Scheduler](https://github.com/sameernagar-hub/Titan-Scheduler)):** Built an intelligent scheduling framework optimizing multi-variable constraints and algorithmic resource allocation for institutional infrastructure.
 
 ### 🤝 Let's Connect & Collaborate
-
 I’m always looking to collaborate on high-performance open-source projects, scalable backend engines, and real-world AI applications.
 
-[LinkedIn](https://www.linkedin.com/in/aavonsameer) | [Email](mailto:nagarsam8989@gmail.com) | [ORCID Academic Profile](https://orcid.org/0009-0003-2302-9092) | [Salesforce Trailblazer](https://www.salesforce.com/trailblazer/aavonsameer)
+[LinkedIn](https://www.linkedin.com/) | [Email](mailto:nagarsam8989@gmail.com) | [ORCID Academic Profile](https://orcid.org/0009-0003-2302-9092)
