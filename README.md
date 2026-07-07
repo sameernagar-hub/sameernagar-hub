@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Sameer Nagar
 
-*Software Development Engineer (SDE) | Backend & Distributed Systems* | *M.S. Graduate in Computer Science • Academic Researcher*
+*Software Engineer (SWE) | Backend & Distributed Systems* | *M.S. Graduate in Computer Science • Academic Researcher*
 
 I design and build resilient backend architectures, high-throughput data pipelines, and deterministic automation systems. My work focuses on bridging the gap between robust systems engineering and practical, production-grade AI/ML applications.
 
