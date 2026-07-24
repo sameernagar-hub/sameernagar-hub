@@ -1,23 +1,36 @@
-## 👋 Hi, I’m Sameer Nagar
+# 👋 Hi, I’m Sameer Nagar
 
-*Software Engineer (SWE) | Backend & Distributed Systems* | *M.S. Graduate in Computer Science • Academic Researcher*
+**Full-Stack Engineer & GenAI Team Lead** | *M.S. in Computer Science • 5x Salesforce Certified*
 
-I design and build resilient backend architectures, high-throughput data pipelines, and deterministic automation systems. My work focuses on bridging the gap between robust systems engineering and practical, production-grade AI/ML applications.
+I architect resilient cloud-native microservices, event-driven streaming pipelines, and grounded agentic AI systems. My work bridges robust full-stack software architecture with production-grade Generative AI execution.
 
-### 🏆 Recent Achievements
-- **1st Place Winner** – *Agentic Dev Tools Hackathon (San Francisco, June 2026)*: Co-developed **Replace Your Human with AI Skill**, a native developer tool focused on autonomous agent workflows.
+---
+
+### 🚀 Highlights & Current Focus
+- **Full Stack & GenAI Lead @ [Saayam For All](https://github.com/saayam-for-all):** Leading cross-functional engineering teams in building microservices architectures (Spring Boot 3, Kafka, AWS EKS) and grounded agentic AI workflows over enterprise data.
+- **1st Place Winner – Agentic Dev Tools Hackathon (San Francisco, June 2026):** Co-developed *Replace Your Human with AI Skill*, a native macOS context-capture & workflow automation tool powered by Gemini.
+- **AI & Financial Tech Research:** Analyzing open-source tax/bookkeeping tooling and building prompt intelligence frameworks.
+
+---
 
 ### 🛠️ Technical Ecosystem
-- **Languages:** Python, Java, C++, JavaScript, SQL
-- **Frameworks & Tools:** Apache Kafka, TensorFlow, Pandas, NumPy, Git, Docker, Node.js
-- **Cloud & Infrastructure:** AWS, Distributed Systems Orchestration
 
-### ⚡ Featured Architectural Focus
-- **Deterministic AI Infrastructure ([promptPilot](https://github.com/sameernagar-hub/promptPilot)):** Architected a full-stack prompt intelligence platform designed to refine raw natural-language inputs into optimized, platform-aware AI workflows, prioritizing systems orchestration over brittle wrappers.
-- **Real-Time Stream Processing ([Anomaly Detection Workbench](https://github.com/sameernagar-hub/Anomaly-Detection-Workbench)):** Architected high-throughput Electronic Health Record (EHR) data pipelines using *Apache Kafka* and *Python* to process live streams, identify data inconsistencies, and detect system anomalies in real time.
-- **Resource Optimization Engine ([Titan Scheduler](https://github.com/sameernagar-hub/Titan-Scheduler)):** Built an intelligent scheduling framework optimizing multi-variable constraints and algorithmic resource allocation for institutional infrastructure.
+| Domain | Stack & Technologies |
+| :--- | :--- |
+| **Languages & Core** | Java (JDK 17), Python, TypeScript/JavaScript, C++, Go, SQL |
+| **Full-Stack & Cloud** | React, React Native, Node.js, Spring Boot 3, AWS (EKS, Lambda, API Gateway, Cognito, Aurora), Docker, CI/CD |
+| **Data, Streaming & AI** | Apache Kafka, AWS MSK, PostgreSQL (`pgvector`), MongoDB, MySQL, LLMs, Grounded AI Agents, Vertex AI |
+| **Certifications** | **5x Salesforce Certified:** *Admin, Advanced Admin, Platform Developer I & II, Agentforce Specialist* |
 
-### 🤝 Let's Connect & Collaborate
-I’m always looking to collaborate on high-performance open-source projects, scalable backend engines, and real-world AI applications.
+---
 
-[LinkedIn](https://www.linkedin.com/) | [Email](mailto:nagarsam8989@gmail.com) | [ORCID Academic Profile](https://orcid.org/0009-0003-2302-9092)
+### ⚡ Flagship Projects
+
+- **[promptPilot](https://github.com/sameernagar-hub/promptPilot):** AI-native prompt intelligence engine that analyzes raw multi-turn conversation logs to decode unique prompting behaviors. Built with Next.js, FastAPI, Neon (PostgreSQL), and `pgvector`.
+- **[Open-Source-Tax-Tooling](https://github.com/sameernagar-hub/Open-Source-Tax-Tooling):** Deep-dive research repository evaluating open-source US consumer tax tooling, bookkeeping engines, and programmatic integration surfaces.
+- **[Anomaly Detection Workbench](https://github.com/sameernagar-hub/anomaly-detection-workbench):** Real-time system log analysis and adaptive anomaly detection pipeline built with baseline sequence models and drift-aware thresholding.
+
+---
+
+### 🤝 Let's Connect
+[LinkedIn](https://www.linkedin.com/in/aavonsameer) | [Portfolio](https://portfolioai-aoaxbktwyqkfm2ne6vxqes.streamlit.app/) | [ORCID Profile](https://orcid.org/0009-0003-2302-9092)
