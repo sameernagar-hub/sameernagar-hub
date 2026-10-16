@@ -95,13 +95,6 @@
 ![MCP](https://img.shields.io/badge/MCP-agents-8A63D2?style=flat-square)
 ![Salesforce](https://img.shields.io/badge/5×_Salesforce_Certified-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=sameernagar-hub&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" height="160" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameernagar-hub&layout=compact&hide_border=true&theme=tokyonight" height="160" alt="Top languages" />
-
-</div>
-
 ---
 
 <div align="center">
