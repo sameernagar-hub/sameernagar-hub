@@ -2,9 +2,10 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=2800&pause=900&color=F2C14E&center=true&vCenter=true&width=760&height=56&lines=Hi%2C+I'm+Sameer+Nagar+%F0%9F%91%8B;I+build+AI+that+shows+its+receipts.;Agents+that+can't+lie+about+their+work.;2x+hackathon+winner+%C2%B7+GenAI+lead" alt="Hi, I'm Sameer Nagar. I build AI that shows its receipts." />
 
-### `Full-stack + GenAI engineer` &nbsp;·&nbsp; *M.S. CS, Cal State Fullerton* &nbsp;·&nbsp; **San Jose, CA**
+**Full-stack + GenAI engineer** &nbsp;·&nbsp; M.S. CS, Cal State Fullerton &nbsp;·&nbsp; San Jose, CA
 
-**Most AI demos _say_ they work. Mine come with proof.**
+Thanks for stopping by! 👋 I love building AI that people can actually trust, and I love building it with others.
+Pull up a chair, look around, and say hi anytime.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_talk-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aavonsameer)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Chat_with_my_AI-111827?style=for-the-badge&logo=streamlit&logoColor=FF4B4B)](https://portfolioai-aoaxbktwyqkfm2ne6vxqes.streamlit.app/)
@@ -17,20 +18,20 @@
 
 ## ⚡ The 10-second version
 
-> 🏆 **2× first place** &nbsp;·&nbsp; 👥 **leading a 30-engineer team** &nbsp;·&nbsp; 🧑‍🏫 **taught OS & system design to 100+ students** &nbsp;·&nbsp; 🛠️ **99.9% uptime for 50+ enterprise clients**
+🏆 **2× first place** &nbsp;·&nbsp; 👥 **leading a 30-engineer team** &nbsp;·&nbsp; 🧑‍🏫 **taught OS & system design to 100+ students** &nbsp;·&nbsp; 🛠️ **99.9% uptime for 50+ enterprise clients**
 
 ---
 
 ## 💼 Where I've made a dent
 
-<sub>Every row: the **problem** → what **I did** → the **result**, with a link you can check.</sub>
+Every row is the **problem**, what **I did**, and the **result**, with a link you can check.
 
 | | 🎯 Problem | 🔧 What I did | 📈 Result |
 | :-- | :-- | :-- | :-- |
-| **Saayam For All** <br><sub>*GenAI Lead & Full-Stack* · 2026–now</sub> | A nonprofit "Uber for help" whose AI service kept returning **502s and empty answers** | Rebuilt failing endpoints to **fail honestly**, pinned API contracts with tests, fixed the deploy pipeline | **9 merged PRs** · first green deploy in months · **31 tests passing** · [see the PRs →](https://github.com/saayam-for-all/ai/pulls?q=is%3Apr+author%3Asameernagar-hub+is%3Amerged) |
-| **Big Book Analytics** <br><sub>*AI Engineer Intern* · 2026</sub> | Which financial platforms can actually be **integrated**? | Evaluated **4 platforms**, built a prototype integration layer | **+20%** data-interchange efficiency · [open-sourced →](https://github.com/sameernagar-hub/Open-Source-Tax-Tooling) |
-| **Cal State Fullerton** <br><sub>*Teaching Associate* · 2025–26</sub> | 100+ CS students wrestling with **Operating Systems** | Taught OS internals and **system design**, ran debugging and design sessions | Where I learned system design deepest: **by teaching it** |
-| **Unthinkable Solutions** <br><sub>*Software Engineer* · 2021–24</sub> | 50+ enterprise clients needing **always-on** systems | Shipped **15+ REST APIs**, event-driven pipelines, ops automation | **99.9% uptime** · queries **35% faster** · processing **22% faster** · manual work **−40%** |
+| **Saayam For All**<br>*GenAI Lead & Full-Stack, 2026–now* | A nonprofit "Uber for help" whose AI service kept returning **502s and empty answers** | Rebuilt failing endpoints to **fail honestly**, pinned API contracts with tests, fixed the deploy pipeline | **9 merged PRs** · first green deploy in months · **31 tests passing** · [see the PRs →](https://github.com/saayam-for-all/ai/pulls?q=is%3Apr+author%3Asameernagar-hub+is%3Amerged) |
+| **Big Book Analytics**<br>*AI Engineer Intern, 2026* | Which financial platforms can actually be **integrated**? | Evaluated **4 platforms**, built a prototype integration layer | **+20%** data-interchange efficiency · [open-sourced →](https://github.com/sameernagar-hub/Open-Source-Tax-Tooling) |
+| **Cal State Fullerton**<br>*Teaching Associate, 2025–26* | 100+ CS students wrestling with **Operating Systems** | Taught OS internals and **system design**, ran debugging and design sessions | Where I learned system design deepest: **by teaching it** |
+| **Unthinkable Solutions**<br>*Software Engineer, 2021–24* | 50+ enterprise clients needing **always-on** systems | Shipped **15+ REST APIs**, event-driven pipelines, ops automation | **99.9% uptime** · queries **35% faster** · processing **22% faster** · manual work **−40%** |
 
 ---
 
@@ -99,12 +100,14 @@
 
 <div align="center">
 
-## 📬 Let's build something
+## 📬 Let's build something together
+
+Whether you're hiring, building, or just curious, my door is open. I reply to every message.
 
 **Hiring** for SWE, AI or full-stack roles? &nbsp;→&nbsp; **[Message me on LinkedIn](https://www.linkedin.com/in/aavonsameer)**<br>
-**Want to contribute?** &nbsp;→&nbsp; Open an issue or PR on **[REGEN](https://github.com/sameernagar-hub/regen-engine/issues)**, first-timers welcome<br>
+**Want to contribute?** &nbsp;→&nbsp; **[Browse all my repos](https://github.com/sameernagar-hub?tab=repositories)** and pick whatever sparks your interest. Issues, PRs, ideas and first-timers: all welcome 💛<br>
 **Just curious?** &nbsp;→&nbsp; **[Ask my portfolio's AI](https://portfolioai-aoaxbktwyqkfm2ne6vxqes.streamlit.app/)** anything about my work
 
-<sub>⭐ If something here helped you, a star goes a long way.</sub>
+Thanks for reading. If something here helped you, a ⭐ goes a long way!
 
 </div>
