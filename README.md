@@ -8,7 +8,7 @@ Thanks for stopping by! 👋 I love building AI that people can actually trust, 
 Pull up a chair, look around, and say hi anytime.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_talk-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aavonsameer)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Chat_with_my_AI-111827?style=for-the-badge&logo=streamlit&logoColor=FF4B4B)](https://portfolioai-aoaxbktwyqkfm2ne6vxqes.streamlit.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Chat_with_my_AI-111827?style=for-the-badge&logo=render&logoColor=white)](https://genfolio-i7bx.onrender.com)
 [![REGEN](https://img.shields.io/badge/REGEN-Live_demo-D4A72C?style=for-the-badge&logo=render&logoColor=white)](https://regen-engine.onrender.com)
 [![ORCID](https://img.shields.io/badge/ORCID-2_papers-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0003-2302-9092)
 
@@ -106,7 +106,7 @@ Whether you're hiring, building, or just curious, my door is open. I reply to ev
 
 **Hiring** for SWE, AI or full-stack roles? &nbsp;→&nbsp; **[Message me on LinkedIn](https://www.linkedin.com/in/aavonsameer)**<br>
 **Want to contribute?** &nbsp;→&nbsp; **[Browse all my repos](https://github.com/sameernagar-hub?tab=repositories)** and pick whatever sparks your interest. Issues, PRs, ideas and first-timers: all welcome 💛<br>
-**Just curious?** &nbsp;→&nbsp; **[Ask my portfolio's AI](https://portfolioai-aoaxbktwyqkfm2ne6vxqes.streamlit.app/)** anything about my work
+**Just curious?** &nbsp;→&nbsp; **[Ask my portfolio's AI](https://genfolio-i7bx.onrender.com)** anything about my work
 
 Thanks for reading. If something here helped you, a ⭐ goes a long way!
 
